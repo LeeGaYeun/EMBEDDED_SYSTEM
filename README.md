@@ -14,7 +14,7 @@
 
 ## 시스템 다이어그램
 
-![시스템 다이어그램](https://prod-files-secure.s3.us-west-2.amazonaws.com/de458be3-9f2d-41fc-b9d0-2f0b628fafc9/822ead24-b672-46b7-bc4a-83b20cbc5e7c/Untitled.png)
+![시스템 다이어그램](https://github.com/LeeGaYeun/EMBEDDED_SYSTEM/assets/149138767/9b87159f-1e8b-4e53-ad1c-3756e0f56088)
 
 ## 프로젝트 성과 및 결과
 

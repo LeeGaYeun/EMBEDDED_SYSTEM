@@ -1,4 +1,4 @@
-# EMBEDDED_SYSTEM Portfolio
+# EMBEDDED_SYSTEM 
 
 ## 프로젝트 소개
 

@@ -12,7 +12,7 @@
 - [간트차트](https://www.notion.so/71d7fa2e5d9142a1ad09d9f46a654a54?pvs=21)
 - [칸반보드](https://www.notion.so/a384b3ba1f08410594e076cec00b4e84?pvs=21)
 
-## 시스템 다이어그램
+## 다이어그램
 
 ![시스템 다이어그램](https://github.com/LeeGaYeun/EMBEDDED_SYSTEM/assets/149138767/9b87159f-1e8b-4e53-ad1c-3756e0f56088)
 
